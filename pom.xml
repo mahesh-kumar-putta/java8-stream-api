@@ -3,5 +3,5 @@
   <groupId>com.practice.java8</groupId>
   <artifactId>java8-stream-api</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>java8</name>
+  <name>java8-stream-api</name>
 </project>
