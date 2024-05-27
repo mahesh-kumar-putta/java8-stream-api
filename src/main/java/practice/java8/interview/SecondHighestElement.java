@@ -1,4 +1,4 @@
-package practice.java8.number;
+package practice.java8.interview;
 
 import java.util.Arrays;
 

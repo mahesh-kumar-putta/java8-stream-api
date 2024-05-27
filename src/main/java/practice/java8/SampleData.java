@@ -18,11 +18,11 @@ public class SampleData {
 	public static List<Employee> getEmployees() {
 		
 		Employee e1 = new Employee("mahesh", "hyd", 25);
-		Employee e2 = new Employee("kumar", "noida", 25);
-		Employee e3 = new Employee("suresh", "chennnai", 25);
-		Employee e4 = new Employee("ramesh", "bglr", 25);
-		Employee e5 = new Employee("rahul", "hyd", 25);
-		Employee e6 = new Employee("rajesh", "chennai", 25);
+		Employee e2 = new Employee("kumar", "noida", 35);
+		Employee e3 = new Employee("suresh", "chennnai", 15);
+		Employee e4 = new Employee("ramesh", "bglr", 45);
+		Employee e5 = new Employee("rahul", "hyd", 55);
+		Employee e6 = new Employee("rajesh", "chennai", 24);
 		
 		List<Employee> employeeList = new ArrayList<>();
 		employeeList.add(e1);

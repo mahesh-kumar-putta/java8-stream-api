@@ -1,4 +1,4 @@
-package practice.java8.string;
+package practice.java8.interview;
 
 import java.util.Arrays;
 import java.util.Comparator;
