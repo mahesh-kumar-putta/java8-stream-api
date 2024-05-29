@@ -35,5 +35,28 @@ public class SampleData {
 		return employeeList;
 
 	}
+	
+public static List<Employee2> getEmployees2() {
+		
+		Employee2 e1 = new Employee2("mahesh","kadapa",25,50000,true);
+		Employee2 e2 = new Employee2("kumar", "noida", 35,25000, false);
+		Employee2 e3 = new Employee2("suresh", "chennnai", 15, 589832,true);
+		Employee2 e4 = new Employee2("ramesh", "bglr", 45,876536,true);
+		Employee2 e5 = new Employee2("rahul", "hyd", 55,52443, true);
+		Employee2 e6 = new Employee2("rajesh", "chennai", 24,10000, false);
+		
+		List<Employee2> employeeList = new ArrayList<>();
+		employeeList.add(e1);
+		employeeList.add(e2);
+		employeeList.add(e3);
+		employeeList.add(e4);
+		employeeList.add(e5);
+		employeeList.add(e6);
+ 
+		return employeeList;
+
+	}
+	
+	
 
 }
