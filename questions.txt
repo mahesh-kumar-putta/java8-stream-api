@@ -1,100 +1,42 @@
-Find the sum of integers in a list using streams.
-Find the maximum element in a list using streams.
-Find the minimum element in a list using streams.
-Find the average of elements in a list using streams.
-Convert a list of strings to uppercase using streams.
-Filter even numbers from a list using streams.
-Filter strings starting with a specific letter using streams.
-Sort a list of integers in ascending order using streams.
-Sort a list of strings in alphabetical order using streams.
-Check if a list contains a specific element using streams.
-Remove duplicate elements from a list using streams.
-Group elements of a list by their lengths using streams.
-Count the occurrences of each element in a list using streams.
-Find the first element of a list using streams.
-Find the last element of a list using streams.
-Check if all elements of a list satisfy a condition using streams.
-Check if any element of a list satisfies a condition using streams.
-Concatenate two lists using streams.
-Remove elements from a list that satisfy a condition using streams.
-Transform each element of a list using streams.
-Find the second smallest element in a list using streams.
-Find the second largest element in a list using streams.
-Find the nth element of a list using streams.
-Skip first n elements from a list using streams.
-Limit the number of elements in a list using streams.
-Partition a list into two groups based on a condition using streams.
-Find the longest string in a list using streams.
-Find the shortest string in a list using streams.
-Convert a list of integers to a list of strings using streams.
-Convert a list of strings to a list of integers using streams.
-Calculate the product of elements in a list using streams.
-Calculate the factorial of a number using streams.
-Find the index of an element in a list using streams.
-Check if two lists are equal using streams.
-Find the intersection of two lists using streams.
-Find the union of two lists using streams.
-Find the difference between two lists using streams.
-Check if a list is sorted in ascending order using streams.
-Check if a list is sorted in descending order using streams.
-Reverse a list using streams.
-Perform a distinct operation on a list using streams.
-Find the frequency of each word in a list of strings using streams.
-Find the most common element in a list using streams.
-Find the least common element in a list using streams.
-Convert a list of objects to a map using streams.
-Convert a map to a list of objects using streams.
-Find the mode of a list using streams.
-Find the median of a list using streams.
-Find the standard deviation of elements in a list using streams.
-Calculate the square of each element in a list using streams.
-Find the difference between the largest and smallest elements in a list using streams.
-Convert a list of strings to lowercase using streams.
-Filter strings containing a specific substring using streams.
-Sort a list of strings by length using streams.
-Find the element with the maximum length in a list of strings using streams.
-Find the element with the minimum length in a list of strings using streams.
-Count the number of null elements in a list using streams.
-Check if all elements of a list are non-null using streams.
-Check if any element of a list is null using streams.
-Remove null elements from a list using streams.
-Replace null elements in a list with a default value using streams.
-Find the second most frequent element in a list using streams.
-Find the kth smallest element in a list using streams.
-Find the kth largest element in a list using streams.
-Convert a list of integers to a comma-separated string using streams.
-Convert a comma-separated string to a list of integers using streams.
-Filter elements divisible by a specific number using streams.
-Find the frequency of each character in a string using streams.
-Find the longest substring without repeating characters in a string using streams.
-Find the shortest substring containing all distinct characters in a string using streams.
-Count the number of vowels in a string using streams.
-Count the number of consonants in a string using streams.
-Convert a list of integers to a set using streams.
-Convert a set to a list of integers using streams.
-Convert a list of objects to JSON using streams.
-Convert JSON to a list of objects using streams.
-Find the maximum and minimum elements simultaneously in a list using streams.
-Find the sum of squares of elements in a list using streams.
-Check if a list contains only unique elements using streams.
-Extract the first and last characters of each string in a list using streams.
-Extract digits from a string and calculate their sum using streams.
-Extract alphabetic characters from a string using streams.
-Find the longest common prefix of strings in a list using streams.
-Find the longest common suffix of strings in a list using streams.
-Check if a string is a palindrome using streams.
-Remove vowels from a string using streams.
-Remove consonants from a string using streams.
-Find the second most frequent character in a string using streams.
-Find the kth most frequent character in a string using streams.
-Convert a list of strings to a single string using streams.
-Convert a single string to a list of strings using streams.
-Remove whitespace from a string using streams.
-Split a string into substrings using a delimiter using streams.
-Trim leading and trailing whitespace from a string using streams.
-Find the longest palindrome substring in a string using streams.
-Find the shortest palindrome substring in a string using streams.
-Check if a string contains only digits using streams.
-Check if a string contains only alphabetic characters using streams.
-Check if a string contains only alphanumeric characters using streams.
-Shuffle the elements of a list using streams.
+1.Group a list of strings by their length
+2.Number of occurance of each character in a string
+3.Employee with highest salary
+4.Avg of numbers greater than 10 in given list
+5.concatenate String separated by comma
+6.Flatten list of lists of integers to list of integers
+7.group employees based on dept
+8.First name of the oldest employee
+9.sum of squares of given list on integers
+10.first non repeating char in a given string
+11.stream to generate infinite numbers and print first 10
+12.product of all elements in a given list of integers
+13.unique words from a given list of words
+14.filter out null values from given list of strings
+15.merge two lists and remove duplicates
+16.print duplicate characters in a given string
+17.print unique chards in a given string
+18. first repeating and non-repeating char in a given string
+19.second highest number repeating and non-repeating in an array
+20.find longest string from an array
+21.Print duplicate numbers from a given list
+22. print all elements removing duplicates
+23.Average of employees whose age>30 in each dept
+24. First and last repeating char in a given string
+25.Find highest salary in each dept
+26. second highest number
+27.find words starting with A
+28.display duplicate words and their count
+29.Print Salaries in asc order 
+30.Group employees by their Age
+31.Numbers starting with 1
+32.Given number is Prime number or not
+33.Sort employees based on their age
+34.Map<City, List<Employee names>>
+35. Calculate nth highest salary
+36.count of number of employees salary > 10000
+37. Group employees based on gender
+38. if > 10000 group it as good else bad
+39. In each dept find good and bad as 38
+40. sum of salaries in each dept
+41. Highest and lowest salary in each dept
+42. 
