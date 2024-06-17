@@ -40,10 +40,10 @@ public static List<Employee2> getEmployees2() {
 		
 		Employee2 e1 = new Employee2("mahesh","kadapa",25,50000,true);
 		Employee2 e2 = new Employee2("kumar", "noida", 35,25000, false);
-		Employee2 e3 = new Employee2("suresh", "chennnai", 15, 589832,true);
-		Employee2 e4 = new Employee2("ramesh", "bglr", 45,876536,true);
-		Employee2 e5 = new Employee2("rahul", "hyd", 55,52443, true);
-		Employee2 e6 = new Employee2("rajesh", "chennai", 24,10000, false);
+		Employee2 e3 = new Employee2("suresh", "chennnai", 15, 49832,true);
+		Employee2 e4 = new Employee2("ramesh", "bglr", 45,8765,true);
+		Employee2 e5 = new Employee2("rahul", "hyd", 55,42443, true);
+		Employee2 e6 = new Employee2("rajesh", "chennai", 24,50000, false);
 		
 		List<Employee2> employeeList = new ArrayList<>();
 		employeeList.add(e1);
