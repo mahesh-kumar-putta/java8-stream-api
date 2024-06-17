@@ -39,4 +39,5 @@
 39. In each dept find good and bad as 38
 40. sum of salaries in each dept
 41. Highest and lowest salary in each dept
-42. 
+42. Sort list of strings
+43.
